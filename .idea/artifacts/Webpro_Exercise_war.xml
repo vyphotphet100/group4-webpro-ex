@@ -9,7 +9,7 @@
         <unpackNestedArchives>false</unpackNestedArchives>
       </options>
     </properties>
-    <root id="archive" name="a-1.0-SNAPSHOT.war">
+    <root id="archive" name="webpro_exercise-1.0-SNAPSHOT.war">
       <element id="artifact" artifact-name="Webpro_Exercise:war exploded" />
     </root>
   </artifact>
